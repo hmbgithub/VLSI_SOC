@@ -1,2 +1,1 @@
-# VLSI_SOC
-physical design 
+Learnt importance of VLSI-SOC and design 
